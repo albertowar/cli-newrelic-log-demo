@@ -6,5 +6,5 @@ In an ideal world, this should send logs to NewRelic using [APM logs in Context]
 
 ## Instructions
 How to run:
-* make build
-* NEW_RELIC_LICENSE_KEY=<key> make run
+* `make build`
+* `NEW_RELIC_LICENSE_KEY=<key> make run`
